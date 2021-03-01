@@ -1,0 +1,33 @@
+[
+    {
+        "peso":113,
+        "ph":6.8,
+        "fruta":"Maçã"
+    },
+    {
+        "peso":122,
+        "ph":4.7,
+        "fruta":"Laranja"
+    },
+    {
+        "peso":107,
+        "ph":5.2,
+        "fruta":"Maçã"
+    },
+    {
+        "peso":98,
+        "ph":3.6,
+        "fruta":"Maçã"
+    },
+    {
+        "peso":115,
+        "ph":2.9,
+        "fruta":"Laranja"
+    },
+    {
+        "peso":120,
+        "ph":4.2,
+        "fruta":"Laranja"
+    }
+    
+]
